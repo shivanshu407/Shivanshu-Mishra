@@ -8,7 +8,7 @@ I'm a passionate software developer with a keen interest in machine learning, na
 
 - 🌱 Currently learning: Advanced machine learning algorithms and FPGA programming.
 - 💬 Ask me about: Python, machine learning, digital logic design, and FPGA development.
-- 📫 How to reach me: [Email](mailto:mshivanshu407@gmail.com) | [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/shivanshu-mishra-6a0496216/))
+- 📫 How to reach me: [Email](mailto:mshivanshu407@gmail.com) | [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/shivanshu-mishra-6a0496216/).
 
 ## 🛠️ Technologies & Tools
 
