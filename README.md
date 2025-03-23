@@ -1,7 +1,5 @@
 # Hello, I'm Shivanshu Mishra! 👋  
 
-![Profile Banner](https://img.freepik.com/premium-vector/man-working-laptop-cartoon-illustration_607277-152.jpg)
-
 ## 🚀 About Me  
 
 I'm a passionate software developer and hardware enthusiast with a strong interest in **machine learning, digital logic design, and FPGA-based development**. I enjoy working on **Verilog, AI/ML, VLSI, and IoT** while continuously learning and contributing to open-source projects.  
