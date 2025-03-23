@@ -1,6 +1,6 @@
 # Hello, I'm Shivanshu Mishra! 👋  
 
-![Profile Banner]([https://your-image-url.com/banner.png](https://img.freepik.com/premium-vector/man-working-laptop-cartoon-illustration_607277-152.jpg?w=826))  
+![Profile Banner](https://img.freepik.com/premium-vector/man-working-laptop-cartoon-illustration_607277-152.jpg)
 
 ## 🚀 About Me  
 
@@ -34,9 +34,6 @@ I'm a passionate software developer and hardware enthusiast with a strong intere
 
 Here are some of the projects I've been working on:  
 
-- **[DeepFakeDefenders](https://github.com/shivanshu407/DeepFakeDefenders)**  
-  🚀 Deepfake Audio-Video Detection for a global multimedia deepfake detection challenge.  
-
 - **[Travel Blog v2](https://github.com/shivanshu407/travelblogv2)**  
   🌍 A travel blog app using Vercel, PostgreSQL, and Blob storage.  
 
@@ -55,8 +52,6 @@ Here are some of the projects I've been working on:
 ## 📫 Let's Connect!  
 
 - ✉️ Email: [mshivanshu407@gmail.com](mailto:mshivanshu407@gmail.com)  
-- 🔗 LinkedIn: [shivanshu-mishra-6a0496216](https://www.linkedin.com/in/shivanshu-mishra-6a0496216/)  
+- 🔗 LinkedIn: [Shivanshu Mishra](https://www.linkedin.com/in/shivanshu-mishra-6a0496216/)  
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=shivanshu407.shivanshu407)  
-
-*Note: Replace the profile banner URL with an actual image URL for a better look!*  
