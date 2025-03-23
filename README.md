@@ -12,15 +12,15 @@ I'm a passionate software developer and hardware enthusiast with a strong intere
   - ✉️ Email: [mshivanshu407@gmail.com](mailto:mshivanshu407@gmail.com)  
   - 🔗 LinkedIn: [shivanshu-mishra-6a0496216](https://www.linkedin.com/in/shivanshu-mishra-6a0496216/)  
 
-## 🛠️ Technologies & Tools  
+## 🛠️ Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-F37626?style=flat&logo=tensorflow&logoColor=white)  
-![FPGA](https://img.shields.io/badge/-FPGA-282828?style=flat)  
-![Verilog](https://img.shields.io/badge/-Verilog-000000?style=flat)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-![VHDL](https://img.shields.io/badge/-VHDL-008080?style=flat)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![FPGA](https://img.shields.io/badge/-FPGA-282828?style=flat)
+![VHDL](https://img.shields.io/badge/-VHDL-008080?style=flat)
+![Verilog](https://img.shields.io/badge/-Verilog-000000?style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) 
 
 ## 📈 GitHub Stats  
 
